@@ -83,11 +83,11 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
   
 ![turn off real time pro](https://user-images.githubusercontent.com/107451613/178333146-173ed2c5-170f-422e-a9c2-aa313b1dfaef.png)
-  
+ 
+<hr>
 <p>In the Properties dialog box, click the <b>Disabled</b> radio button then OK<p>
  
-  
-<hr>
+
 
   ![disabled](https://user-images.githubusercontent.com/107451613/178335122-b2825ad1-bee9-441e-b8ba-d5349e81ade1.png)
 
