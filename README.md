@@ -67,21 +67,22 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
 <hr>
 
-<p>1. Right click <b>Default Domain Policy</b> and select <b>Edit</b> to open the Group Policy Management Editor. 
+<p>Right click <b>Default Domain Policy</b> and select <b>Edit</b> to open the Group Policy Management Editor. 
   
  ![GPO editor](https://user-images.githubusercontent.com/107451613/178329398-e33dcb1a-1cfe-47e7-8163-9d33bf8f382d.png)
   
  <hr>
 
-<p>Navigate to <b>Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy</b>to open Password Policy settings. 
+<p>Navigate to <b>Computer Configuration > Policies > Administrative Templates: Policy definitions (ADMX files) retrieved from the local computer > Windows Defender Antivirus > Real-time protection</b>to Real-time protection settings. 
   
-![Password Policy](https://user-images.githubusercontent.com/107451613/178329907-b0f0d4cf-c468-4d1e-97a1-08738f5a8e1c.png)
+![Realtimeprotection](https://user-images.githubusercontent.com/107451613/178332368-0bc9234e-015c-482d-8682-befbbfeae4c6.png)
   
  <hr>
  
-<p>Double click <b>Enforce password history</b> in the right pane of the Group Policy Management Editor.<p>
+<p>In the right pane, locate and double-click<b>"Turn off real-time protection"</b>
+
   
-![EnforcePasswordHx](https://user-images.githubusercontent.com/107451613/178330434-b8b77c34-322b-442d-b6ea-83bcd41f3622.png)
+![turn off real time pro](https://user-images.githubusercontent.com/107451613/178333146-173ed2c5-170f-422e-a9c2-aa313b1dfaef.png)
   
  <p>In this setting, you can enforce the AD (Active Directory) to remember old passwords, up to the number specified, and prevent users from re-using old passwords.
  
