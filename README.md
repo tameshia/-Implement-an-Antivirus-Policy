@@ -84,7 +84,7 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
   
 ![turn off real time pro](https://user-images.githubusercontent.com/107451613/178333146-173ed2c5-170f-422e-a9c2-aa313b1dfaef.png)
   
-<p>In the Properties dialog box, click the <b>Disabled</b> radio button then OK/<p>
+<p>In the Properties dialog box, click the <b>Disabled</b> radio button then OK<p>
  
   
 <hr>
