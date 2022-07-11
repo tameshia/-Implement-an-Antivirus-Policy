@@ -58,8 +58,13 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
   
 <p>From the Server Manager menu bar, select <b>Tools > Group Policy Management</b></p>
 
+![GPM](https://user-images.githubusercontent.com/107451613/178326022-49902a75-444d-4866-81dc-49d0e55ea97f.PNG)
+
+<hr>
+<p>Locate the Group Policy Management Console in the left pane. From here, navigate to <Forest > Domains > Group Policy Objects > Default Domain Policy<b> to open the Default Domain Policy.</p>
 
 ![GPM](https://user-images.githubusercontent.com/107451613/178326022-49902a75-444d-4866-81dc-49d0e55ea97f.PNG)
 
-
 <hr>
+
+
