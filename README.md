@@ -45,6 +45,6 @@
 
 ![TampProtect](https://user-images.githubusercontent.com/107451613/178309980-b91b74a4-6e8e-4366-b49a-c8edfcbd4529.PNG)
   
-If a user attempts to turn off <b>real-time, cloud delivered, and tamper protection>/B>, they will be unable to do so. We (the administrator) have set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization. Using Advance Directory makes it easy to change settings once and these changes will be deployed to several computers automatically. The next steps will show how to use the Group Policy Management Console to manage Windows Defender settings centrally from the domain controller. </b> link.<</p>
+If a user attempts to turn off <b>real-time, cloud delivered, and tamper protection</b>, they will be unable to do so. We (the administrator) have set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization. Using Advance Directory makes it easy to change settings once and these changes will be deployed to several computers automatically. The next steps will show how to use the Group Policy Management Console to manage Windows Defender settings centrally from the domain controller. </p>
 
 <hr>
