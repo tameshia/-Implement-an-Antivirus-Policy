@@ -23,7 +23,7 @@
     </hr>
 <p>This lab will use Windows Defender Antivirus (also known as Windows Security) to implement an antivirus policy. Windows Defender Antivirus is a full-scale anti-malware sofware solution that can protect computers and devices from viruses, spyware, trojans, bots and many other types of malware. 
   <h2>Directions</h2>
-    <p>From the <b>Windows Start</b> icon, click on the <b>Settings</b> button.</p>
+    <p>Log into your machine as the administrator. From the <b>Windows Start</b> icon, click on the <b>Settings</b> button.</p>
     
 ![windows settings](https://user-images.githubusercontent.com/107451613/178303658-171cfec8-b55f-4378-add5-e7448a08997d.png)
 
@@ -45,6 +45,6 @@
 
 ![TampProtect](https://user-images.githubusercontent.com/107451613/178309980-b91b74a4-6e8e-4366-b49a-c8edfcbd4529.PNG)
   
-If a user attempts to turn off real-time, cloud delivered, and taper protection, they will be unable to do so. The administrator has set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization.   </b> link.<</p>
+If a user attempts to turn off <b>real-time, cloud delivered, and tamper protection>/B>, they will be unable to do so. We (the administrator) have set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization. Using Advance Directory makes it easy to change settings once and these changes will be deployed to several computers automatically. The next steps will show how to use the Group Policy Management Console to manage Windows Defender settings centrally from the domain controller. </b> link.<</p>
 
 <hr>
