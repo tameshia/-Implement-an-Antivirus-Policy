@@ -7,7 +7,7 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 2019</b> 
+- <b>Windows 2019 (admin account)</b> 
 
 
 <h2>Lab Description</h2>
@@ -41,7 +41,7 @@
 
 <hr>
 
-<p>Scroll down to the <b>Tamper Protection</b> settings and click the button to turn on tamper protection. This prevents others from making adjustments to virus and threat protection settings.  </b> link.<</p>
+<p>Scroll down to the <b>Tamper Protection</b> settings and click the button to turn on tamper protection. This prevents others from making adjustments to virus and threat protection settings. If a user attempts to turn off real-time, cloud delivered, and taper protection, they will be unable to do so. The administrator has set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization.   </b> link.<</p>
 
 ![TampProtect](https://user-images.githubusercontent.com/107451613/178309980-b91b74a4-6e8e-4366-b49a-c8edfcbd4529.PNG)
 
