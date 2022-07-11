@@ -5,9 +5,10 @@
 
 - <b>PowerShell</b> 
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 2019 (admin account)</b> 
+- - <b>Windows 2019 (admin account)</b> 
 
 
 <h2>Lab Description</h2>
