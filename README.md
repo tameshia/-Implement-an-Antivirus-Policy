@@ -79,7 +79,7 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
   
  <hr>
  
-<p>In the right pane, locate and double-click<b>Turn off real-time protection</b>
+<p>In the right pane, locate and double-click<b> Turn off real-time protection</b>
 
   
 ![turn off real time pro](https://user-images.githubusercontent.com/107451613/178333146-173ed2c5-170f-422e-a9c2-aa313b1dfaef.png)
