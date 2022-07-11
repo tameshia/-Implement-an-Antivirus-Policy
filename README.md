@@ -73,3 +73,13 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
   
  <hr>
 
+<p>Navigate to <b>Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy</b>to open Password Policy settings. 
+  
+![Password Policy](https://user-images.githubusercontent.com/107451613/178329907-b0f0d4cf-c468-4d1e-97a1-08738f5a8e1c.png)
+  
+ <hr>
+<p>Double click <b>Enforce password history</b> in the right pane of the Grooup Policy Management Eidtor.<p>
+  
+![Password Policy](https://user-images.githubusercontent.com/107451613/178329907-b0f0d4cf-c468-4d1e-97a1-08738f5a8e1c.png)
+  
+ <hr>
