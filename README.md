@@ -1,1 +1,1 @@
-# -Implement-an-Antivirus-Policy
+# Implement an Antivirus Policy
