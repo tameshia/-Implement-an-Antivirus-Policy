@@ -84,6 +84,9 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
   
 ![turn off real time pro](https://user-images.githubusercontent.com/107451613/178333146-173ed2c5-170f-422e-a9c2-aa313b1dfaef.png)
   
- <p>In this setting, you can enforce the AD (Active Directory) to remember old passwords, up to the number specified, and prevent users from re-using old passwords.
+<p>In the Properties dialog box, click the <b>Disabled</b> radio button then OK/<p>
  
+  ![disabled](https://user-images.githubusercontent.com/107451613/178335122-b2825ad1-bee9-441e-b8ba-d5349e81ade1.png)
+
+<p>Double-click <b>Configure local setting override to turn on real-time protection</b>
 <hr>
