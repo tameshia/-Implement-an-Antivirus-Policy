@@ -29,14 +29,14 @@
 
 <hr>
 
- <p>From the Server Manger menu bar, select <b>Tools > Group Policy Management</b> to open the Group Policy Management Console.</p>
+ <p>Type <b>Virus</b> in the Search field, the select <b>Virus & threat protection</b></p>
 
-![GropPolicyMgmt](https://user-images.githubusercontent.com/107451613/176472656-153ee581-c17e-45ca-b731-a442870ed249.png)
+![virus](https://user-images.githubusercontent.com/107451613/178304082-9ea6a2ab-5051-413b-9753-01b850eb4dc2.png)
 
 <hr>
 
-<p>In the left pane of the Group Policy Management Console, expand <b>Group Policy Objects</b> and navigate to <b>Default Domain Policy</b> and right click to select the <b>Edit</b> option.</p>
+<p>This will open up the Virus & threat protection setting page. Clind <b>Manage settings</b> link.<</p>
 
-![Default Domain Policy](https://user-images.githubusercontent.com/107451613/176473831-32e84d07-9ccf-423e-b22e-16002f61bb02.png)
+![Virus settings](https://user-images.githubusercontent.com/107451613/178304651-19354084-c36d-4f4a-8075-84be4dedbc49.png)
 
 <hr>
