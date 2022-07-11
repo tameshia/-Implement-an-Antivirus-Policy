@@ -91,5 +91,5 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
 <hr>
 
-<p>Double-click <b>Configure local setting override to turn on real-time protection</b>
+<p>We will use Windows PowerShell to immediately update changes. From the taskbar, click the <Windows PowerShell</b> button</p>. At the PowerShell prompt, type <b>gpupdate /force</b> then press enter.
 <hr>
