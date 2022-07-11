@@ -41,8 +41,8 @@
 
 <hr>
 
-<p>This will open up the Virus & threat protection setting page. Click <b>Manage settings</b> link.<</p>
+<p>Scroll down to the <b>Tamper Protection</b> settings and click the button to turn on tamper protection. This prevents others from making adjustments to virus and threat protection settings.  </b> link.<</p>
 
-![Virus settings](https://user-images.githubusercontent.com/107451613/178304651-19354084-c36d-4f4a-8075-84be4dedbc49.png)
+![TampProtect](https://user-images.githubusercontent.com/107451613/178309980-b91b74a4-6e8e-4366-b49a-c8edfcbd4529.PNG)
 
 <hr>
