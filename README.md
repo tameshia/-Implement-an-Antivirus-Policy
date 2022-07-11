@@ -21,7 +21,7 @@
        <li>End users are aware of the security policies enforced on their workstations</li>
     </ol>
     </hr>
-
+<p>This lab will use Windows Defender Antivirus (also known as Windows Security) to implement an antivirus policy. Windows Defender Antivirus is a full-scale anti-malware sofware solution that can protect computers and devices from viruses, spyware, trojans, bots and many other types of malware. 
   <h2>Directions</h2>
     <p>From the <b>Windows Start</b> icon, click on the <b>Server Manager</b> button. This will open the Server Manager application.</p>
     
