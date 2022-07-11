@@ -78,8 +78,8 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 ![Password Policy](https://user-images.githubusercontent.com/107451613/178329907-b0f0d4cf-c468-4d1e-97a1-08738f5a8e1c.png)
   
  <hr>
-<p>Double click <b>Enforce password history</b> in the right pane of the Grooup Policy Management Eidtor.<p>
+<p>Double click <b>Enforce password history</b> in the right pane of the Group Policy Management Eidtor.<p>
   
-![Password Policy](https://user-images.githubusercontent.com/107451613/178329907-b0f0d4cf-c468-4d1e-97a1-08738f5a8e1c.png)
+![EnforcePasswordHx](https://user-images.githubusercontent.com/107451613/178330434-b8b77c34-322b-442d-b6ea-83bcd41f3622.png)
   
  <hr>
