@@ -52,7 +52,7 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
 <p>Login to Windows Server account. From the taskbar click the <b>Windows Start</b> icon, then click the <b>Server Manager button</b> to open the Server Manager application.<p>
 
-![TampProtect](https://user-images.githubusercontent.com/107451613/178309980-b91b74a4-6e8e-4366-b49a-c8edfcbd4529.PNG)
+![Server](https://user-images.githubusercontent.com/107451613/178322369-0a93d98d-8eed-4c31-a98d-50abdf27c522.PNG)
   
 If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protection</b>, they will be unable to do so. We (the administrator) have set up a policy that prevents any changes to these settings. Local management only allows administrators to change settings for that particular workstation. These changes will not be implemented across the entire organization. Using Advance Directory makes it easy to change settings once and these changes will be deployed to several computers automatically. The next steps will show how to use the Group Policy Management Console to manage Windows Defender settings centrally from the domain controller. </p>
 
