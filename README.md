@@ -7,7 +7,7 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows</b> 
+- <b>Windows 2019</b> 
 
 
 <h2>Lab Description</h2>
@@ -35,7 +35,13 @@
 
 <hr>
 
-<p>This will open up the Virus & threat protection setting page. Clind <b>Manage settings</b> link.<</p>
+<p>This will open up the Virus & threat protection setting page. Clink <b>Manage settings</b> link.<</p>
+
+![Virus settings](https://user-images.githubusercontent.com/107451613/178304651-19354084-c36d-4f4a-8075-84be4dedbc49.png)
+
+<hr>
+
+<p>This will open up the Virus & threat protection setting page. Click <b>Manage settings</b> link.<</p>
 
 ![Virus settings](https://user-images.githubusercontent.com/107451613/178304651-19354084-c36d-4f4a-8075-84be4dedbc49.png)
 
