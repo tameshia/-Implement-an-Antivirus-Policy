@@ -67,4 +67,9 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
 <hr>
 
+<p>Right click <b>Default Domain Policy</b> and select <b>Edit</b> to open the Group Policy Management Editor. 
+  
+ ![GPO editor](https://user-images.githubusercontent.com/107451613/178329398-e33dcb1a-1cfe-47e7-8163-9d33bf8f382d.png)
+  
+ <hr>
 
