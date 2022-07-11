@@ -91,5 +91,5 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 
 <hr>
 
-<p>We will use Windows PowerShell to immediately update changes. From the taskbar, click the <b>Windows PowerShell</b> button</p>. At the PowerShell prompt, type <b>gpupdate /force</b> then press enter.
+<p>We will use Windows PowerShell to immediately update changes. From the taskbar, click the <b>Windows PowerShell</b>. At the PowerShell prompt, type <b>gpupdate /force</b> then press enter.
 <hr>
