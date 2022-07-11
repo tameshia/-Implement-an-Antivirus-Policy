@@ -61,7 +61,7 @@ If a user attempts to turn off <b>Real-time, Cloud delivered, and Tamper Protect
 ![GPM](https://user-images.githubusercontent.com/107451613/178326022-49902a75-444d-4866-81dc-49d0e55ea97f.PNG)
 
 <hr>
-<p>Locate the Group Policy Management Console in the left pane. From here, navigate to <Forest > Domains > Group Policy Objects > Default Domain Policy<b> to open the Default Domain Policy.</p>
+<p>Locate the Group Policy Management Console in the left pane. From here, navigate to <b><Forest > Domains > Group Policy Objects > Default Domain Policy</b> to open the Default Domain Policy.</p>
 
 ![Default Domain Policy](https://user-images.githubusercontent.com/107451613/178328663-0db95780-d75c-42f7-bbbd-341e19ebd2f8.png)
 
