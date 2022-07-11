@@ -7,7 +7,7 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019</b> 
+- <b>Windows</b> 
 
 
 <h2>Lab Description</h2>
