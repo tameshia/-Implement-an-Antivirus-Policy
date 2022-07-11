@@ -11,14 +11,14 @@
 
 
 <h2>Lab Description</h2>
-  <p>In this lab, I will implement a password protection policy. A password protection policy sets the rules and standards for password validity and management within an organization. A password policy can enforce and standardize password lenght, combinations, password attempts, implement a lock-out policy, determine the frequency in which passwords must be changed, enable multi-factor authentication, and set rules for password history and minimum age requirements.  </p>
+  <p>In this lab, I will implement an antivirus policy. An antivirus policy determines which controls will be used to combat viruses and malware. It sets rules for which settings users can adjust from the default antivirus settings and whether controls are required on each device. </p>
   
-  <p>A password policy may look something like this:
+  <p>A basic antivirus policy may look something like this:
     <ol>
-       <li>Passwords must be at least 9 characters in length and must contain 3 of the following: At least one upper case character, at least one numeric character, include at least one special character, [ e.g., ! @ # ? ] </li>
-       <li>Users cannot use any of the previously used 10 passwords.</li>
-       <li>Passwords must be changed every 90 days.</li>
-       <li>User IDs and user names are not allowed</li>
+       <li>Approved 3rd-party antivirus/antimalware solutions are allowed, but only in addition to the use of Microsoft Defender.</li>
+       <li>Settings for the virus protection software must not be altered in a manner that will reduce the software effectiveness</li>
+       <li>Virus protection software must not be disabled or bypassed</li>
+       <li>End users are aware of the security policies enforced on their workstations</li>
     </ol>
     </hr>
 
